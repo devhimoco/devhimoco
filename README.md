@@ -19,7 +19,7 @@ life  solve ( life problem ){
 
 int main (){
    life MIDDLE-EAST = solve (∞);
-   cout << MIDDLE-EAST << "= something like DEAD !!";
+   cout << MIDDLE-EAST << "= something like DEATH !! ;)";
    return 0;
    }
 ```
